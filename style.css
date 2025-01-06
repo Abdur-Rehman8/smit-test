@@ -54,5 +54,25 @@ body{
 
 .sec-4{
 
-    padding-top: 100px;
+    padding: 100px;
+}
+.card-f{
+    display: flex;
+    gap: 10px;
+}
+.card-fl{
+    display: flex;
+    gap: 30px;
+}
+.we{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+.sec5-f{
+
+    display: flex
+    ;
+        flex-direction: column;
+        gap: 20px;
 }
